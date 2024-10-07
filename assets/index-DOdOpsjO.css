@@ -1,0 +1,1 @@
+.Carousel{overflow-x:hidden}.Carousel__list{display:flex}.Carousel__button:not(:disabled){cursor:pointer}.Container{display:flex}.field{display:flex;column-gap:10px}.field__input{width:200px;margin-bottom:20px;display:flex;flex-direction:column}.field__error{color:red}ul{padding:0;list-style:none}
